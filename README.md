@@ -1,6 +1,6 @@
 ### About me✍️:
 
-Hey! Im Jim, I am a graduate student of the International Hellenic University and I like to create different projects, some more simple, some more complex. 
+Hey! Im Jim, I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
 Having received the basic knowledge from my academic years, I seek to develop the existing knowledge! 
 
 ## My favourite programming languages are💻:
