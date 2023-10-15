@@ -1,7 +1,7 @@
 ### About me✍️:
 
 
-<img src="C:\Users\Jimmy\Desktop\giphy.gif" width="250" height="250"/>
+<img src="[C:\Users\Jimmy\Desktop\giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw1DaICzJt9WHDF5iNNpWTbd&ust=1697498865319000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiw2pma-YEDFQAAAAAdAAAAABAI)" width="250" height="250"/>
 
 Hey! Im Jim, I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
 Having received the basic knowledge from my academic years, I seek to develop the existing knowledge! 
