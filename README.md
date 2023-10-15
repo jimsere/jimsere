@@ -19,4 +19,4 @@ Having received the basic knowledge from my academic years, I seek to develop th
 7. SQL
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimsere &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimsere&theme=radical)
