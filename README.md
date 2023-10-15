@@ -1,5 +1,7 @@
 ### About me✍️:
 
+
+![giphy](https://github.com/jimsere/jimsere/assets/69701209/96947db9-01ed-43d1-afda-44a128987720)
 Hey! Im Jim, I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
 Having received the basic knowledge from my academic years, I seek to develop the existing knowledge! 
 
