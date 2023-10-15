@@ -17,3 +17,6 @@ Having received the basic knowledge from my academic years, I seek to develop th
 5. HTML,CSS
 6. Kotlin
 7. SQL
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimsere &theme=radical)
