@@ -1,9 +1,12 @@
 ### About me✍️:
 
-Hey! Im Jim, I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
-Having received the basic knowledge from my academic years, I seek to develop the existing knowledge! 
+<h1 align="center">Hey 👋, I'm Jim</h1>
+<h3 align="center">I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
+Having received the basic knowledge from my academic years, I seek to develop the existing knowledge!.</h3>
 
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250"/>
+<img align ="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 📫 How to reach me **dimitrisserefias@gmail.com**
 
 ## My favourite programming languages are💻:
 1. Java
