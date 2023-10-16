@@ -31,19 +31,8 @@ Having received the basic knowledge from my academic years, I seek to develop th
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimsere&show_icons=true&locale=en&layout=compact" alt="jimsere" / </p>
 
-## My favourite programming languages are💻:
-1. Java
-2. Python
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimsere&show_icons=true&locale=en" alt="jimsere" /></p>
 
-## But I also have experience with:
-1. PHP
-2. Javascript
-3. C++
-4. C
-5. HTML,CSS
-6. Kotlin
-7. SQL
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimsere&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimsere&" alt="jimsere" /></p>
