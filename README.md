@@ -6,12 +6,15 @@ Having received the basic knowledge from my academic years, I seek to develop th
 
 <img align ="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 - 📫 How to reach me **dimitrisserefias@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dimitris-serefias-9a7b0a1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1BcEJfMsT5OWwORDn7wqLw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimitris-serefias-9a7b0a1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1BcEJfMsT5OWwORDn7wqLw%3D%3D" height="30" width="40" /></a>
 </p>
+
 
 ## My favourite programming languages are💻:
 1. Java
