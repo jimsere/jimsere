@@ -1,7 +1,7 @@
 ### About me✍️:
 
 <h1 align="center">Hey 👋, I'm Jim</h1>
-<h3 align="right">I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
+<h3 align="left">I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
 Having received the basic knowledge from my academic years, I seek to develop the existing knowledge!.</h3>
 
 <img align ="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
