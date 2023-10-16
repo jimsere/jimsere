@@ -1,7 +1,7 @@
 ### About me✍️:
 
 <h1 align="center">Hey 👋, I'm Jim</h1>
-<h3 align="center">I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
+<h3 align="right">I am a graduate student of the International Hellenic University and I like to create several projects, some more simple, some more complex. 
 Having received the basic knowledge from my academic years, I seek to develop the existing knowledge!.</h3>
 
 <img align ="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -12,6 +12,7 @@ Having received the basic knowledge from my academic years, I seek to develop th
 <p align="left">
 <a href="https://www.linkedin.com/in/dimitris-serefias-9a7b0a1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1BcEJfMsT5OWwORDn7wqLw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimitris-serefias-9a7b0a1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1BcEJfMsT5OWwORDn7wqLw%3D%3D" height="30" width="40" /></a>
 </p>
+
 ## My favourite programming languages are💻:
 1. Java
 2. Python
