@@ -36,7 +36,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimsere&show_icons=true&locale=en&layout=compact" alt="jimsere" / </p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimsere&show_icons=true&locale=en" alt="jimsere" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimsere" alt="jimsere" /></p>
